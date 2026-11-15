@@ -1,0 +1,17 @@
+# IDE
+.idea/
+*.iml
+
+# Android / Gradle
+.gradle/
+build/
+local.properties
+captures/
+.cxx/
+
+# Java / Maven
+target/
+
+# Sistema
+.DS_Store
+Thumbs.db
